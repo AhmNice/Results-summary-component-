@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution ](https://github.com/AhmNice/Results-summary-component-)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://ahmnice.github.io/Results-summary-component-/)
 
 ## My process
 
